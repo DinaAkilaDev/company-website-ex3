@@ -1,0 +1,86 @@
+.color{
+    background-color: #343997;
+    color: white ;
+    height: 70px;
+}
+.orange{
+    color: #fc6313;
+}
+.blue{
+    color: #343997;
+    display: inline;
+}
+.container{
+    margin-left: 20px;
+}
+.navbar-light .navbar-nav .nav-link:focus, .navbar-light .navbar-nav .nav-link:hover{
+    background-color: #fc6313;
+    border: 1px solid  #fc6313;
+}
+.overlay{
+    padding-top: 200px;
+    padding-left: 200px;
+    background-color: #596394;
+}
+.card-title{
+    font-weight: bolder;
+    font-size: 60px;
+}
+.button1{
+    border: 1px solid  #ffffff;
+    background-color: #343997;
+    width: 150px;
+    height: 40px;
+    color: white;
+}
+.button2{
+    border: 1px solid  #ffffff;
+    background-color: #fc6313;
+    width: 200px;
+    height: 40px;
+    color: white;
+}
+.card{
+    height: 700px;
+}
+.box{
+    height: 300px;
+    width: 400px;
+    background-color:  #fc6313;
+    border-radius: 0px 0px 50px 50px;
+    margin-top: 230px;
+    z-index: 1;
+}
+.box-content{
+    padding: 50px;
+    color: white;
+}
+.box-content input{
+    background-color: #fc6313;
+    color: white;
+    border: #fc6313;
+    width: 140px;
+}
+.box-content input::placeholder{
+    color: white;
+}
+.form1{
+    border:4px solid ;
+    border-top:white ;
+    border-left:white ;
+    border-right:white ;
+}
+.catagory-content{
+    padding-left: 20px;
+}
+.card1{
+    border-radius: 50px;
+    background-color: grey;
+}
+.button3{
+    border: 1px solid  #367cb0;
+    background-color: #367cb0;
+    width: 200px;
+    height: 40px;
+    color: white;
+}
